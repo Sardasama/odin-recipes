@@ -1,0 +1,43 @@
+* {
+    background-color: black;
+    color: beige;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    width: auto;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#odin-img{
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.decal-center{
+    margin-left: 45%;
+    display: block;
+}
+
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+ul {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+ol {
+    margin-left: 10%;
+    margin-right: 10%;
+}
